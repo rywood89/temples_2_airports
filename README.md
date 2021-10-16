@@ -1,8 +1,10 @@
 # temples_2_airports
 
+### APP IS CURRENTLY ARCHIVED
+
 I built this app for fun to explore the distance of the nearest airport (with an air traffic control tower) to The Church of Jesus Chirst of Latter-day Saint (LDS) temples. There have been some stats thrown around that world-wide, the average member of the LDS church is less than 200 miles away from an active temple. I wanted to try my hand at identifying proximity of temples to something, so I chose airports.
 
-Current app: https://ryanwoodbury89.shinyapps.io/temple_2_airport/
+ARCHIVED app: https://ryanwoodbury89.shinyapps.io/temple_2_airport/
 
 I wanted to try three things with this app:
 
